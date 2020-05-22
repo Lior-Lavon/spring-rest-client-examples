@@ -20,4 +20,5 @@ public class User {
     private Billing billing;
     private String language;
     private String currency;
+
 }
